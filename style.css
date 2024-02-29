@@ -1,0 +1,29 @@
+body{
+  font-family:"Segoe UI";
+  background-color:#DDEEFF;
+  
+}
+header{
+  background-color:rgb(0,50,0);
+  color:antiquewhite;
+  padding-top:20px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  
+}
+.easy{background-color:#CCCCCC;
+     padding:20px;
+     margin:20px;
+      color:orange;
+      font-style:italic;
+      font-weight:bolder;
+     border-style:groove;
+     border-width:10px;
+     border-color:rgb(50,50,225);}
+.not-easy{background-color:#FFDDAA;
+          border-style: solid;
+          border-width: 10px;
+          border-color:violet;
+         padding:20px;
+         margin:20px;}
